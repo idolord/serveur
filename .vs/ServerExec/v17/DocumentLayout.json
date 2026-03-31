@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\serveur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|C:\\dev\\serveur\\server\\server\\executable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|solutionrelative:server\\server\\executable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500368B4-4F25-408B-A53F-05B0C5B181D4}|Messager\\Messager.csproj|c:\\dev\\serveur\\messager\\servertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500368B4-4F25-408B-A53F-05B0C5B181D4}|Messager\\Messager.csproj|solutionrelative:messager\\servertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|C:\\dev\\serveur\\server\\server\\comunications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|solutionrelative:server\\server\\comunications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|C:\\dev\\serveur\\server\\client\\clientconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|solutionrelative:server\\client\\clientconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500368B4-4F25-408B-A53F-05B0C5B181D4}|Messager\\Messager.csproj|C:\\dev\\serveur\\messager\\scobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500368B4-4F25-408B-A53F-05B0C5B181D4}|Messager\\Messager.csproj|solutionrelative:messager\\scobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500368B4-4F25-408B-A53F-05B0C5B181D4}|Messager\\Messager.csproj|C:\\dev\\serveur\\messager\\ressources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500368B4-4F25-408B-A53F-05B0C5B181D4}|Messager\\Messager.csproj|solutionrelative:messager\\ressources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500368B4-4F25-408B-A53F-05B0C5B181D4}|Messager\\Messager.csproj|C:\\dev\\serveur\\messager\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500368B4-4F25-408B-A53F-05B0C5B181D4}|Messager\\Messager.csproj|solutionrelative:messager\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|C:\\dev\\serveur\\server\\server\\servertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|solutionrelative:server\\server\\servertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|C:\\dev\\serveur\\server\\server\\pipehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|solutionrelative:server\\server\\pipehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|C:\\dev\\serveur\\server\\server\\gessionnairesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F53C79-5A9E-45CB-BDA4-A53E2B8FEBCD}|server\\server.csproj|solutionrelative:server\\server\\gessionnairesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0FC4A1-931F-47C0-BE26-F9624A4A4586}|\u00C9l\u00E9ments de solution{6D0FC4A1-931F-47C0-BE26-F9624A4A4586}|C:\\dev\\serveur\\DB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6D0FC4A1-931F-47C0-BE26-F9624A4A4586}|\u00C9l\u00E9ments de solution{6D0FC4A1-931F-47C0-BE26-F9624A4A4586}|solutionrelative:DB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "serverTCP.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\server\\server\\serverTCP.cs",
+              "RelativeDocumentMoniker": "server\\server\\serverTCP.cs",
+              "ToolTip": "C:\\dev\\serveur\\server\\server\\serverTCP.cs",
+              "RelativeToolTip": "server\\server\\serverTCP.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAWwAYBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:56.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "scObjects.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\Messager\\scObjects.cs",
+              "RelativeDocumentMoniker": "Messager\\scObjects.cs",
+              "ToolTip": "C:\\dev\\serveur\\Messager\\scObjects.cs",
+              "RelativeToolTip": "Messager\\scObjects.cs",
+              "ViewState": "AgIAAA0DAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:56.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "serverTools.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\Messager\\serverTools.cs",
+              "RelativeDocumentMoniker": "Messager\\serverTools.cs",
+              "ToolTip": "C:\\dev\\serveur\\Messager\\serverTools.cs",
+              "RelativeToolTip": "Messager\\serverTools.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAUwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:57.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pipehandler.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\server\\server\\pipehandler.cs",
+              "RelativeDocumentMoniker": "server\\server\\pipehandler.cs",
+              "ToolTip": "C:\\dev\\serveur\\server\\server\\pipehandler.cs",
+              "RelativeToolTip": "server\\server\\pipehandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:57.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ressources.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\Messager\\Ressources.cs",
+              "RelativeDocumentMoniker": "Messager\\Ressources.cs",
+              "ToolTip": "C:\\dev\\serveur\\Messager\\Ressources.cs",
+              "RelativeToolTip": "Messager\\Ressources.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "executable.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\server\\server\\executable.cs",
+              "RelativeDocumentMoniker": "server\\server\\executable.cs",
+              "ToolTip": "C:\\dev\\serveur\\server\\server\\executable.cs",
+              "RelativeToolTip": "server\\server\\executable.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:57.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "comunications.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\server\\server\\comunications.cs",
+              "RelativeDocumentMoniker": "server\\server\\comunications.cs",
+              "ToolTip": "C:\\dev\\serveur\\server\\server\\comunications.cs",
+              "RelativeToolTip": "server\\server\\comunications.cs",
+              "ViewState": "AgIAAFEEAAAAAAAAAAAAAHAEAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:56.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clientConnection.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\server\\client\\clientConnection.cs",
+              "RelativeDocumentMoniker": "server\\client\\clientConnection.cs",
+              "ToolTip": "C:\\dev\\serveur\\server\\client\\clientConnection.cs",
+              "RelativeToolTip": "server\\client\\clientConnection.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAxwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:57.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\Messager\\Message.cs",
+              "RelativeDocumentMoniker": "Messager\\Message.cs",
+              "ToolTip": "C:\\dev\\serveur\\Messager\\Message.cs",
+              "RelativeToolTip": "Messager\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:08:10.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gessionnaireSocket.cs",
+              "DocumentMoniker": "C:\\dev\\serveur\\server\\server\\gessionnaireSocket.cs",
+              "RelativeDocumentMoniker": "server\\server\\gessionnaireSocket.cs",
+              "ToolTip": "C:\\dev\\serveur\\server\\server\\gessionnaireSocket.cs",
+              "RelativeToolTip": "server\\server\\gessionnaireSocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T08:52:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DB.sql",
+              "DocumentMoniker": "C:\\dev\\serveur\\DB.sql",
+              "RelativeDocumentMoniker": "DB.sql",
+              "ToolTip": "C:\\dev\\serveur\\DB.sql",
+              "RelativeToolTip": "DB.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-15T14:41:58.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

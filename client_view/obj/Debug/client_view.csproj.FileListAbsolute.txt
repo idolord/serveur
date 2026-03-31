@@ -1,0 +1,15 @@
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\bin\Debug\client_view.exe.config
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\bin\Debug\client_view.exe
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\bin\Debug\client_view.pdb
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\obj\Debug\client_view.exe
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\obj\Debug\client_view.pdb
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\bin\Debug\Messager.dll
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\bin\Debug\UnityEngine.dll
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\bin\Debug\Messager.pdb
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\bin\Debug\UnityEngine.xml
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\client_view\client_view.exe.config
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\client_view\client_view.exe
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\client_view\client_view.pdb
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\view\client_view.exe.config
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\view\client_view.exe
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\view\client_view.pdb

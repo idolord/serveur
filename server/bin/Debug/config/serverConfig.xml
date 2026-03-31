@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<configs>
+  <!--configuration des port du serveur-->
+  <serverPortConfigs>
+    <PFR_port>2999</PFR_port>
+    <client_port>3000</client_port>
+  </serverPortConfigs>
+  <!--configuration database-->
+  <DBSettings>
+    <IP>localhost</IP>
+    <DBUser>terraserver</DBUser>
+    <DBUserPass>Ido2607!raiage</DBUserPass>
+    <DBName>ti</DBName>
+    <DBPort>3306</DBPort>
+  </DBSettings>
+</configs>

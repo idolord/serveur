@@ -1,0 +1,8 @@
+c:\users\idorey\documents\visual studio 2012\Projects\ServerExec\ServerExec\bin\Debug\ServerExec.exe.config
+c:\users\idorey\documents\visual studio 2012\Projects\ServerExec\ServerExec\bin\Debug\ServerExec.exe
+c:\users\idorey\documents\visual studio 2012\Projects\ServerExec\ServerExec\bin\Debug\ServerExec.pdb
+c:\users\idorey\documents\visual studio 2012\Projects\ServerExec\ServerExec\bin\Debug\Messager.dll
+c:\users\idorey\documents\visual studio 2012\Projects\ServerExec\ServerExec\bin\Debug\Messager.pdb
+c:\users\idorey\documents\visual studio 2012\Projects\ServerExec\ServerExec\obj\Debug\ServerExec.csprojResolveAssemblyReference.cache
+c:\users\idorey\documents\visual studio 2012\Projects\ServerExec\ServerExec\obj\Debug\ServerExec.exe
+c:\users\idorey\documents\visual studio 2012\Projects\ServerExec\ServerExec\obj\Debug\ServerExec.pdb

@@ -1,0 +1,130 @@
+﻿[17/06/2025 15:39:31] ERREUR (tryCreateChar): Cannot add or update a child row: a foreign key constraint fails (`ti`.`chars`, CONSTRAINT `fk_character_user_account` FOREIGN KEY (`CharUserID`) REFERENCES `users` (`UserID`))
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.InsertChar(scCharacter cha, Int32 userid, Int32 id, DateTime creationDate, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 705
+   à server.DBHandler.tryCreateChar(scCharacter cha, Int32 userid) dans C:\dev\serveur\server\server\comunications.cs:ligne 626
+--------------------------------------------------
+[17/06/2025 15:39:31] ERREUR (HandleCreateCharRequest): Cannot add or update a child row: a foreign key constraint fails (`ti`.`chars`, CONSTRAINT `fk_character_user_account` FOREIGN KEY (`CharUserID`) REFERENCES `users` (`UserID`))
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.InsertChar(scCharacter cha, Int32 userid, Int32 id, DateTime creationDate, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 705
+   à server.DBHandler.tryCreateChar(scCharacter cha, Int32 userid) dans C:\dev\serveur\server\server\comunications.cs:ligne 633
+   à server.serverTCP.HandleCreateCharRequest(clientConnection cl, message incObject) dans C:\dev\serveur\server\server\serverTCP.cs:ligne 189
+--------------------------------------------------
+[17/06/2025 15:40:20] ERREUR (tryCreateChar): Cannot add or update a child row: a foreign key constraint fails (`ti`.`chars`, CONSTRAINT `fk_character_user_account` FOREIGN KEY (`CharUserID`) REFERENCES `users` (`UserID`))
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.InsertChar(scCharacter cha, Int32 userid, Int32 id, DateTime creationDate, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 705
+   à server.DBHandler.tryCreateChar(scCharacter cha, Int32 userid) dans C:\dev\serveur\server\server\comunications.cs:ligne 626
+--------------------------------------------------
+[17/06/2025 15:40:20] ERREUR (HandleCreateCharRequest): Cannot add or update a child row: a foreign key constraint fails (`ti`.`chars`, CONSTRAINT `fk_character_user_account` FOREIGN KEY (`CharUserID`) REFERENCES `users` (`UserID`))
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.InsertChar(scCharacter cha, Int32 userid, Int32 id, DateTime creationDate, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 705
+   à server.DBHandler.tryCreateChar(scCharacter cha, Int32 userid) dans C:\dev\serveur\server\server\comunications.cs:ligne 633
+   à server.serverTCP.HandleCreateCharRequest(clientConnection cl, message incObject) dans C:\dev\serveur\server\server\serverTCP.cs:ligne 189
+--------------------------------------------------
+[17/06/2025 16:03:23] ERREUR (tryCreateChar): Table 'ti.char_inventory' doesn't exist
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.InsertChar(scCharacter cha, Int32 userid, Int32 id, DateTime creationDate, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 712
+   à server.DBHandler.tryCreateChar(scCharacter cha, Int32 userid) dans C:\dev\serveur\server\server\comunications.cs:ligne 626
+--------------------------------------------------
+[17/06/2025 16:03:23] ERREUR (HandleCreateCharRequest): Table 'ti.char_inventory' doesn't exist
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.InsertChar(scCharacter cha, Int32 userid, Int32 id, DateTime creationDate, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 712
+   à server.DBHandler.tryCreateChar(scCharacter cha, Int32 userid) dans C:\dev\serveur\server\server\comunications.cs:ligne 633
+   à server.serverTCP.HandleCreateCharRequest(clientConnection cl, message incObject) dans C:\dev\serveur\server\server\serverTCP.cs:ligne 195
+--------------------------------------------------
+[20/06/2025 02:13:22] ERREUR (register): Field 'Email' doesn't have a default value
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.register(message scmessage) dans C:\dev\serveur\server\server\comunications.cs:ligne 907
+--------------------------------------------------
+[24/06/2025 13:17:48] ERREUR (register): Field 'Email' doesn't have a default value
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.register(message scmessage) dans C:\dev\serveur\server\server\comunications.cs:ligne 907
+--------------------------------------------------
+[26/06/2025 14:16:05] ERREUR (register): Field 'Email' doesn't have a default value
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.register(message scmessage) dans C:\dev\serveur\server\server\comunications.cs:ligne 907
+--------------------------------------------------
+[26/06/2025 14:39:59] ERREUR (register): Duplicate entry 'wantiezquentin@gmail.com' for key 'users.Email'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à server.DBHandler.register(message scmessage) dans C:\dev\serveur\server\server\comunications.cs:ligne 908
+--------------------------------------------------
+[26/06/2025 18:53:20] ERREUR (GetUserInfoUid): Impossible d'effectuer un cast d'un objet de type 'System.DBNull' en type 'System.String'.
+   à server.DBHandler.GetCharactersByUserId(Int32 userId, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 812
+   à server.DBHandler.GetUserInfoUid(Int32 uid) dans C:\dev\serveur\server\server\comunications.cs:ligne 852
+--------------------------------------------------
+[26/06/2025 18:53:20] ERREUR (HandleCreateCharRequest): Impossible d'effectuer un cast d'un objet de type 'System.DBNull' en type 'System.String'.
+   à server.DBHandler.GetCharactersByUserId(Int32 userId, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 812
+   à server.DBHandler.GetUserInfoUid(Int32 uid) dans C:\dev\serveur\server\server\comunications.cs:ligne 858
+   à server.serverTCP.GetUserPlayableCharacters(Int32 userId) dans C:\dev\serveur\server\server\serverTCP.cs:ligne 219
+   à server.serverTCP.HandleCreateCharRequest(clientConnection cl, message incObject) dans C:\dev\serveur\server\server\serverTCP.cs:ligne 198
+--------------------------------------------------
+[26/06/2025 20:42:26] ERREUR (tryPlayChar): Unknown column 'l.locationMapID' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à server.DBHandler.GetCharacterLocation(Int32 charId, Int32 userId, MySqlConnection sqlcon) dans C:\dev\serveur\server\server\comunications.cs:ligne 593
+   à server.DBHandler.tryPlayChar(scCharacter chara, Int32 userId) dans C:\dev\serveur\server\server\comunications.cs:ligne 554
+--------------------------------------------------

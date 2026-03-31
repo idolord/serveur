@@ -1,0 +1,30 @@
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\view\view.exe.config
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\view\view.exe
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\server\bin\Debug\view\view.pdb
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\obj\Debug\view.exe
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\obj\Debug\view.pdb
+C:\Util-Sys\upload\Dropbox\developpement\currentTI\serveur\client_view\obj\Debug\view.csprojResolveAssemblyReference.cache
+D:\sauvegarde documents\currentTI\serveur\server\bin\Debug\view\view.exe.config
+D:\sauvegarde documents\currentTI\serveur\server\bin\Debug\view\view.exe
+D:\sauvegarde documents\currentTI\serveur\server\bin\Debug\view\view.pdb
+D:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.csproj.CoreCompileInputs.cache
+D:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.csproj.CopyComplete
+D:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.exe
+D:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.pdb
+G:\sauvegarde documents\currentTI\serveur\server\bin\Debug\view\view.exe.config
+G:\sauvegarde documents\currentTI\serveur\server\bin\Debug\view\view.exe
+G:\sauvegarde documents\currentTI\serveur\server\bin\Debug\view\view.pdb
+G:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.csproj.AssemblyReference.cache
+G:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.csproj.SuggestedBindingRedirects.cache
+G:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.csproj.CoreCompileInputs.cache
+G:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.csproj.CopyComplete
+G:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.exe
+G:\sauvegarde documents\currentTI\serveur\client_view\obj\Debug\view.pdb
+C:\dev\serveur\client_view\obj\Debug\view.csproj.AssemblyReference.cache
+C:\dev\serveur\client_view\obj\Debug\view.csproj.CoreCompileInputs.cache
+C:\dev\serveur\client_view\obj\Debug\view.exe
+C:\dev\serveur\client_view\obj\Debug\view.pdb
+C:\dev\serveur\server\bin\Debug\view\view.exe.config
+C:\dev\serveur\server\bin\Debug\view\view.exe
+C:\dev\serveur\server\bin\Debug\view\view.pdb
+C:\dev\serveur\client_view\obj\Debug\view.csproj.Up2Date
